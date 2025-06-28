@@ -1,0 +1,2 @@
+local moveset = loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/yourrepo/main/HeroHunter.lua", true))()
+moveset.FlowingWaterInstantKill(game.Players.LocalPlayer.Character)
